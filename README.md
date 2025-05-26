@@ -27,8 +27,8 @@ Before running this application, ensure you have:
 ### 1. Clone the Repository
 - If using Laravel Herd, make sure to clone into your `Sites` directory.
 ```bash
-git clone https://github.com/yourusername/project-name.git
-cd project-name
+git clone https://github.com/malpaso/laramaster.git
+cd laramaster
 ```
 
 ### 2. Install PHP Dependencies
@@ -75,7 +75,7 @@ npm run build
 ```
 
 ### 8. Start the Application
-- If using Laravel Herd, the website will be available at `http://[project-name].test`
+- If using Laravel Herd, the application will be available at `http://laramaster.test`
 
 ```bash
 # Start the Vite development server
