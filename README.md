@@ -60,6 +60,7 @@ php artisan key:generate
 ```bash
 # Run migrations
 php artisan migrate
+# Choose 'yes' to create the database file if prompted
 
 # Seed database with sample data (optional)
 php artisan db:seed
