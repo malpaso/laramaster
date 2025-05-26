@@ -55,12 +55,9 @@ php artisan key:generate
 
 ### 6. Database Setup
 
-- **The database is SQLite, and the file is located in the `database` directory. Migrations are already run and the database is seeded with sample data.**
+- **The database is SQLite**
 
 ```bash
-# Refresh the database file
-php artisan migrate:fresh
-
 # Run migrations
 php artisan migrate
 
